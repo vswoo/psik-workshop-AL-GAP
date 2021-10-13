@@ -6,7 +6,7 @@ Title : From Atomistic to Coarse Grained: Active Learning Strategies for Gaussia
 ### Installation 
 
 ```
-conda env create --file A100_env.yml -p /your/path
+conda env create --file  env.yml  -p /your/path
 
 
 conda activate /your/path
