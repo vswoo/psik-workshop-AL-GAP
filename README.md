@@ -8,8 +8,25 @@ Title : From Atomistic to Coarse Grained: Active Learning Strategies for Gaussia
 ```
 conda env create --file  env.yml  -p /your/path
 
+cp -r AL4GAP  /your/path/conda_psik/lib/python3.7/site-packages/
 
 conda activate /your/path
+
+```
+
+### How to run ?
+
+```
+cd Notebook/
+
+unzip traj.extxyz.zip
+
+conda activate /your/path
+
+export PYTHONPATH=/your/path/conda_psik/lib/python3.7/site-packages/
+
+jupyter-notebook tutorial_AL4GAP.ipynb
+
 ```
 
 
