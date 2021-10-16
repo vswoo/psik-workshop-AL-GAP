@@ -1,8 +1,8 @@
-#  Psi-k tutorial workshop : [ML-IP 2021](https://www.mlip-workshop-2021.xyz)
+#  **Psi-k tutorial workshop : [ML-IP 2021](https://www.mlip-workshop-2021.xyz)**
 
-Day : Wednesday 17th November (2021)
+**Day :** Wednesday 17th November (2021)
 
-Title : From Atomistic to Coarse Grained: Active Learning Strategies for Gaussian Approximation Potential 
+**Title :** From Atomistic to Coarse Grained: Active Learning Strategies for Gaussian Approximation Potential
 
 ### Installation 
 
