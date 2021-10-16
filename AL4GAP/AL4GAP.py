@@ -63,7 +63,7 @@ def plot_metric(track_metric):
     plt.plot(x, track_metric, 'ro', c=cmap(0.40), linewidth=3.0)
     plt.title('Active learning', fontsize=32)
     plt.xlabel('Trial', fontsize=24)
-    plt.ylabel('MAE (ev)', fontsize=24)
+    plt.ylabel('MAE (eV)', fontsize=24)
     plt.grid('True')
     plt.tight_layout()
     plt.draw()
