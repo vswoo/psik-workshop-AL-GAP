@@ -30,9 +30,9 @@ jupyter-notebook tutorial_AL4GAP.ipynb
 
 ```
 
-### Advanced tutorial
+### Advanced take home tutorial
 
-Please refer to the [deep kernel learning](http://proceedings.mlr.press/v51/wilson16.html)  for coarse-grained density Functional theory predictions [here](https://github.com/TheJacksonLab/ECG_ActiveLearning).
+Please refer to the [deep kernel learning](http://proceedings.mlr.press/v51/wilson16.html)  for coarse-grained density Functional theory predictions [here](https://github.com/TheJacksonLab/ECG_ActiveLearning). 
 
 
 
