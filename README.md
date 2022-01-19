@@ -4,6 +4,8 @@
 
 **Title :** From Atomistic to Coarse Grained: Active Learning Strategies for Gaussian Approximation Potential
 
+Link to the tutorial video can be found [here](https://youtu.be/yDDMNh2-fbk).
+
 ### Installation 
 
 ```
