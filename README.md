@@ -4,7 +4,7 @@
 
 **Title :** From Atomistic to Coarse Grained: Active Learning Strategies for Gaussian Approximation Potential
 
-Link to the tutorial video can be found [here](https://youtu.be/yDDMNh2-fbk).
+Link to the tutorial video can be found [here](https://youtu.be/yDDMNh2-fbk). The interactive notebook is availble from the [workshop webpage](https://www.mlip-workshop-2021.xyz/resources). 
 
 ### Installation 
 
